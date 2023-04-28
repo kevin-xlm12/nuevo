@@ -27,6 +27,7 @@ namespace borrador
           // }
           
             listBox1.Items.AddRange(nombres);
+            console.log("nada");
             dataGridView1.Columns.Add("nombres","");
             foreach (String i in nombres)
             {
