@@ -1,0 +1,11 @@
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\borrador\borrador\bin\Debug\borrador.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\borrador\borrador\bin\Debug\borrador.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\borrador\borrador\bin\Debug\borrador.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\borrador\borrador\obj\Debug\borrador.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\borrador\borrador\obj\Debug\borrador.Form1.resources
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\borrador\borrador\obj\Debug\borrador.Properties.Resources.resources
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\borrador\borrador\obj\Debug\borrador.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\borrador\borrador\obj\Debug\borrador.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\borrador\borrador\obj\Debug\borrador.pdb
+D:\borrador\borrador\obj\Debug\borrador.exe
+D:\borrador\borrador\obj\Debug\borrador.pdb
